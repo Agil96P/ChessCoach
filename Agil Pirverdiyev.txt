@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chess Lessons</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            text-align: center;
+        }
+
+        section {
+            margin-top: 20px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            color: #666;
+        }
+
+        .contact-info {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Chess Lessons</h1>
+    </header>
+
+    <section>
+        <h2>Lesson Plan</h2>
+        <p>Join our chess lessons and enhance your skills with our experienced instructors.</p>
+
+        <h3>Hourly Rate: $30</h3>
+        <p>Flexible pricing options available. Contact us for more details.</p>
+
+        <h3>Timetable</h3>
+        <p>Classes are held on:</p>
+        <ul>
+            <li>Everyday: 9am-23pm</li>
+          
+            <!-- Add more days and times as needed -->
+        </ul>
+
+        <h3>Who Can Join?</h3>
+        <p>Our chess lessons are suitable for:</p>
+        <ul>
+            <li>Beginners</li>
+            <li>Intermediate Players</li>
+            <li>Advanced Players</li>
+        </ul>
+    </section>
+
+    <section class="contact-info">
+        <h2>Contact Information</h2>
+        <p>For more information and to enroll, contact us:</p>
+        <p>Email: pirverdiyev66@gmail.com</p>
+        <p>Phone: +1 (909) 345-3160</p>
+    </section>
+</body>
+
+</html>
